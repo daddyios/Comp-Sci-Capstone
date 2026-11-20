@@ -20,3 +20,10 @@ Did: Installed PostregreSQL and began implementing it to VS code
 Learned: What Postgre is and how to use it
 Next: Actually implement data base into code
 Blocked: nothing
+
+## 2026-17-09 · Fri
+State: repo exists, home screen structure done, css picked, 
+Did: Implemented Postgre Into Login: Postgre now has a table that can store username id etc
+Learned: Why use Postrge isntead of SQLLite: Postgre is capable of handling more infromation for an actual application. 
+Next: Link the Storageof user names for login to actually creating an account through register.html
+Blocked: We tried to do seperate code and then commit so i can pul from sophia's work isntead of Live Share today but there's trouble with letting Sophia Commit.
