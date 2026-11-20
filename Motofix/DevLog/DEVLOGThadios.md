@@ -14,8 +14,6 @@ Learned: Nothing new just remembered that i can use bas.html and extend it for w
 Next: Downlaod PostgreSQL and learn how to implement
 Blocked: nothing
 
-
-
 ## 2026-17-09 · Tue
 State: repo exists, home screen structure done, css picked, 
 Did: Installed PostregreSQL and began implementing it to VS code
